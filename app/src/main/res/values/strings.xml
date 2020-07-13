@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AdvancedAndroidStudy</string>
+    <string name="insert_user">Insert User</string>
+    <string name="form_name">Name</string>
+    <string name="form_age">Age</string>
+    <string name="form_save">Save</string>
+    <string name="form_delete">delete</string>
 </resources>
