@@ -24,6 +24,13 @@ import static com.advancedandroidstudy.helpers.Constant.CHAVE_APP;
 import static com.advancedandroidstudy.helpers.Constant.CODIGO_REQUISICAO_ALTERA;
 import static com.advancedandroidstudy.helpers.Constant.POSICAO_LISTA;
 
+/** Reference Library
+ * Lifecycle biblioteca
+ * https://developer.android.com/jetpack/androidx/releases/lifecycle
+ *
+ * LiveData
+ * https://developer.android.com/topic/libraries/architecture/livedata#create_livedata_objects
+ * **/
 public class MainActivity extends AppCompatActivity {
 
     private RecyclerView myRecyclerView;
